@@ -2,8 +2,10 @@
 	margin: 0;
 	padding: 0;
 	text-decoration: none;
-	font-family: "MV Boli";
+	font-family: "Caveat";
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap');
 
 body{
 	background: #161513; 
