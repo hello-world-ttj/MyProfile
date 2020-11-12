@@ -18,8 +18,8 @@ body{
 
 .card{
 	cursor: pointer;
-	width: 340px;
-	height: 480px;
+	width: 440px;
+	height: 580px;
 }
 .front,.back{
 	width: 100%;
