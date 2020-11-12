@@ -1,10 +1,9 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Changa&display=swap');
 *{
 	margin: 0;
 	padding: 0;
 	text-decoration: none;
-	font-family: 'Concert One', cursive;
+	font-family: 'Changa', sans-serif;
 }
 
 body{
