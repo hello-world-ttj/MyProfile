@@ -19,7 +19,7 @@ body{
 .card{
 	cursor: pointer;
 	width: 440px;
-	height: 580px;
+	height: 880px;
 }
 .front,.back{
 	width: 100%;
